@@ -7,6 +7,7 @@ Welcome to my collection of JavaScript projects! This repository contains a vari
 Below is a list of projects included in this repository, along with a brief description of each:
 
 1. **Weather App** - A web application that fetches weather data from a public API and displays weather forecasts based on user input.
+2. **To-Do List** - A web application that allows users to store their tasks and delete tasks
 
 
 ## Technologies Used
