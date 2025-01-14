@@ -10,6 +10,7 @@ Below is a list of projects included in this repository, along with a brief desc
 2. **To-Do List** - A web application that allows users to store their tasks and delete tasks
 3. **Password Generator** - A web application that allows users to create strong 12 character passwords
 4. **QR Code Generator** - A web application that allows users to generate a QR Code based off any text they provide
+5. **Random Quote Generator** - A web application that gives users a random qoute everytime they click the button
    
 
 
